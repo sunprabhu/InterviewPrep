@@ -1,0 +1,8 @@
+https://github.com/shashank88/system_design
+https://trananh.github.io/blog/work/2014/02/24/preparing-for-a-google-phone-interview.html - google interview prep
+
+https://github.com/jwasham/google-interview-university#the-daily-plan
+
+https://www.hiredintech.com/courses - system design
+
+https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time
